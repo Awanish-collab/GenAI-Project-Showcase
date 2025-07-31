@@ -1,0 +1,8 @@
+chromadb
+transformers 
+peft 
+accelerate 
+datasets 
+fastapi 
+uvicorn 
+gradio
